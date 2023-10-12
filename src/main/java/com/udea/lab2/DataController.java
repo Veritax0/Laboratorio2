@@ -46,7 +46,6 @@ public class DataController {
         var objectMapper = new ObjectMapper();
         var faker = new Faker(new Locale("en-US"));
         var currencies = objectMapper.createArrayNode();
-        System.out.println("Holi");
         for(var i=0;i<20;i++){
             var currency = faker.currency();
             currencies.add(objectMapper.createObjectNode()
