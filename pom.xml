@@ -16,8 +16,8 @@
 	<properties>
 		<java.version>11</java.version>
 
-			<sonar.organization>diegobotia</sonar.organization>
-		   <sonar.projectKey>diegobotia_lab2</sonar.projectKey>
+			<sonar.organization>veritax0</sonar.organization>
+		   <sonar.projectKey>Veritax0_Laboratorio2</sonar.projectKey>
 			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 
