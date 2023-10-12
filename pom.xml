@@ -17,7 +17,7 @@
 		<java.version>11</java.version>
 
 			<sonar.organization>veritax0</sonar.organization>
-		   <sonar.projectKey>Veritax0_Laboratorio2</sonar.projectKey>
+		   	<sonar.projectKey>Veritax0_Laboratorio2</sonar.projectKey>
 			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 
